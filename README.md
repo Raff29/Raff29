@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on enhancing my skills developing web apps by building scalable applications with TypeScript, PHP, Python, and Node.js.<br>🤝 I’m looking to collaborate on open-source projects that focus on improving user experience and operational efficiency.<br>🌱I’m currently learning more about cloud computing and containerization with Docker and Kubernetes.<br>💬 Ask me about my journey in software development.<br>⚡ Fun fact: I’ve driven through every province in Canada, exploring the diverse landscapes and cultures along the way!
+# 👋 About Me:
+I'm a software developer passionate about building scalable and efficient web applications. Currently, I'm sharpening my skills in TypeScript, PHP, Python, and Node.js.
+
+🔭 Actively exploring cloud computing, particularly containerization with Docker and Kubernetes.
+
+🤝 Interested in collaborating on open-source projects aimed at enhancing user experiences and operational efficiency.
+
+💬 Feel free to chat with me about software development, tech trends, or my coding journey!
 
 
 ## 🌐 Socials:
